@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3RY6SBBdEZFWvC2BuxMlPeIMLbt2YBwvgsjk1pIhISA=",
+  "Source": "Task2API",
+  "BasePath": "_content/Task2API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

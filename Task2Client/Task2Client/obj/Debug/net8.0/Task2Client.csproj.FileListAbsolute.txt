@@ -1,0 +1,14 @@
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\bin\Debug\net8.0\Task2Client.exe
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\bin\Debug\net8.0\Task2Client.deps.json
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\bin\Debug\net8.0\Task2Client.runtimeconfig.json
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\bin\Debug\net8.0\Task2Client.dll
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\bin\Debug\net8.0\Task2Client.pdb
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\Task2Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\Task2Client.AssemblyInfoInputs.cache
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\Task2Client.AssemblyInfo.cs
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\Task2Client.csproj.CoreCompileInputs.cache
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\Task2Client.dll
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\refint\Task2Client.dll
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\Task2Client.pdb
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\Task2Client.genruntimeconfig.cache
+C:\Users\temok\Desktop\BackFinal\Task2Client\Task2Client\obj\Debug\net8.0\ref\Task2Client.dll

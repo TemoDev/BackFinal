@@ -1,0 +1,30 @@
+﻿//index.cshtml
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<script type="text/javascript">
+    function okrun()
+    {
+        var http = new XMLHttpRequest();
+        http.open("GET", "/Home/Sum?a=" + x.value + "&b=" + y.value, false);
+        http.send();
+        //parse the JSON object, to make it more user friendly
+        var h = JSON.parse(http.responseText);
+        //only show the value
+        alert(h.r);
+    }
+</script>
+
+<div>
+    <input type="number" id="x" />
+    <br />
+    <input type="number" id="y" />
+    <br />
+    <input type="button" value="ok" onclick="okrun();" />
+</div>
